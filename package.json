@@ -1,0 +1,24 @@
+{
+  "name": "multiplicar-node",
+  "version": "2.0.0",
+  "description": "Esta es una aplicación de líneas de comando para generar archivos .txt con tablas de multiplicar y también listarlas por consola.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolinaRamon/NodeJS.git"
+  },
+  "author": "Carolina Ramon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolinaRamon/NodeJS/issues"
+  },
+  "homepage": "https://github.com/CarolinaRamon/NodeJS#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {}
+}
