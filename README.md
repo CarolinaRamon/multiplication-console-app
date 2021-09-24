@@ -10,7 +10,7 @@ node app --base 2 --hasta 8
 ```
 La base es el número a multiplicar y el comando "hasta" (opcional, default=10) indica justamente hasta qué número queremos que nos genere la tabla.
 
-![Tabla del 2 hasta el 8](https://raw.githubusercontent.com/CarolinaRamon/multiplicar-node/main/assets/ejemplo-archivo.png "Ejemplo de archivo creado")
+![Tabla del 2 hasta el 8](https://raw.githubusercontent.com/CarolinaRamon/multiplication-console-app/main/assets/ejemplo-archivo.png "Ejemplo de archivo creado")
 
 Para crear los archivos y, además, listar las tablas en consola, se debe agregar el comando "listar" (opcional, default=false), por ejemplo: 
 
@@ -18,7 +18,7 @@ Para crear los archivos y, además, listar las tablas en consola, se debe agrega
 node app --base 8 --hasta 15 --listar
 ```
 
-![Comando listar en la consola](https://raw.githubusercontent.com/CarolinaRamon/multiplicar-node/main/assets/ejemplo-consola.png "Ejemplo de tabla en consola")
+![Comando listar en la consola](https://raw.githubusercontent.com/CarolinaRamon/multiplication-console-app/main/assets/ejemplo-consola.png "Ejemplo de tabla en consola")
 
 También podemos ver el menú ingresando:
 
